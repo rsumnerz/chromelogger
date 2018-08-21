@@ -25,6 +25,13 @@ This is a list of available server side libraries
 - [Perl](https://metacpan.org/pod/Web::ChromeLogger)
 - [Classic ASP](https://github.com/danielmarcoto/asp2console)
 
+## Libraries
+
+This is a list of available server side libraries
+
+- Python - [http://github.com/ccampbell/chromelogger-python](http://github.com/ccampbell/chromelogger-python)
+- PHP - [http://github.com/ccampbell/chromephp](http://github.com/ccampbell/chromephp)
+
 ## Development
 
 To install manually for development
