@@ -164,6 +164,7 @@
                 _logData(_decode(headers[i].value));
                 return;
             }
+            deleteCookie(cookie_name);
         }
     }
 
